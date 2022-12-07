@@ -1,0 +1,6 @@
+/target
+/data/*
+/save
+/.idea
+/.vscode
+!/data/state.json
